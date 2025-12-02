@@ -1,0 +1,34 @@
+{
+    "name": "daybreak-asuna-theme",
+    "displayName": "Daybreak Asuna Theme",
+    "description": "A custom complex dark theme for Visual Studio Code inspired by Asuna at daybreak",
+    "version": "1.0.0",
+    "publisher": "CantiFirestarter",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/CantiFirestarter/vscode-Daybreak-Asuna-theme"
+    },
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark",
+        "asuna",
+        "daybreak",
+        "anime"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Daybreak Asuna",
+                "uiTheme": "vs-dark",
+                "path": "./themes/daybreak-asuna-color-theme.json"
+            }
+        ]
+    }
+}
