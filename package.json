@@ -1,0 +1,25 @@
+{
+  "name": "daybreak-asuna-theme",
+  "displayName": "Daybreak-Asuna-theme",
+  "description": "Daybreak Asuna Theme, a custom complex dark theme for Visual Studio Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CantiFirestarter/VScode-Daybreak-Asuna-theme.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Daybreak Asuna",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Daybreak Asuna-color-theme.json"
+      }
+    ]
+  }
+}
