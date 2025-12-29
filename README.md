@@ -1,4 +1,3 @@
-
 <h1 aling="center">
     <a href="https://github.com/cantifirestarter/VScode-Daybreak-Asuna-theme">
         <img src="./icon.png" alt="theme icon" width="200px">
