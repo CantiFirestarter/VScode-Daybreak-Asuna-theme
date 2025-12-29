@@ -1,10 +1,10 @@
 {
-  "name": "daybreak-asuna-theme",
-  "displayName": "Daybreak-Asuna-theme",
-  "description": "Daybreak Asuna Theme, a custom complex dark theme for Visual Studio Code",
+  "name": "vscode-daybreak-asuna-theme",
+  "displayName": "Daybreak Asuna",
+  "description": "Daybreak Asuna Theme, a custom complex dark theme for Visual Studio Code.",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.106.1"
+    "vscode": "^1.107.0"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
       {
         "label": "Daybreak Asuna",
         "uiTheme": "vs-dark",
-        "path": "./themes/Daybreak Asuna-color-theme.json"
+        "path": "./themes/Daybreak-Asuna-color-theme.json"
       }
     ]
   }
