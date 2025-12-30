@@ -2,7 +2,7 @@
   "name": "vscode-daybreak-asuna-theme",
   "displayName": "Daybreak Asuna",
   "description": "Daybreak Asuna Theme, a custom complex dark theme for Visual Studio Code.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "CantiFirestarter",
   "engines": {
     "vscode": "^1.107.0"
@@ -14,6 +14,7 @@
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {

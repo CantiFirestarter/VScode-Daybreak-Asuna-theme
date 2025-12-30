@@ -4,6 +4,7 @@ All notable changes to the "VScode-Daybreak-Asuna-theme" extension will be docum
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [Kinks]
 
-- Initial release
+- Working out kinks.
+- Will make real changelog when everything is fully formated.
