@@ -328,7 +328,7 @@
         "punctuation.section.embedded"
       ],
       "settings": {
-        "foreground": "#F65026"
+        "foreground": "#5FB3B3"
       }
     },
     {
@@ -437,7 +437,7 @@
       "name": "Block Level Variables",
       "scope": ["variable.other"],
       "settings": {
-        "foreground": "#00BFFF"
+        "foreground": "#939da5"
       }
     },
     {
