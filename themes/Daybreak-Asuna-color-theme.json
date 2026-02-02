@@ -234,7 +234,7 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "variable.readonly.local": "#F8F8F2",
-    "function.declaration": "#FFEA6B"
+    "function.declaration": "#7ECAFA"
   },
   "tokenColors": [
     {
@@ -328,7 +328,7 @@
         "punctuation.section.embedded"
       ],
       "settings": {
-        "foreground": "#5FB3B3"
+        "foreground": "#FCA57E"
       }
     },
     {
@@ -416,7 +416,7 @@
         "variable.function"
       ],
       "settings": {
-        "foreground": "#FFEA6B"
+        "foreground": "#579DFA"
       }
     },
     {
